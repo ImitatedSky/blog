@@ -9,7 +9,7 @@
 # 5. 發起 Pull requests ，合併到 butterfly.js.org 倉庫
 
 - class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>網站'
-  class_desc: '<span style="font-style: italic;">重要的事情説一遍</span>'
+  class_desc: '<span style="font-style: italic;">重要的事情説三遍</span>'
   link_list:
     - name: email
       link: mailto:yehforlivelihood@gmail.com
